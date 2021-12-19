@@ -8,26 +8,26 @@
 }
 
 .carousel-image-1{
-    background-image: url("/csmju.jpg");
+    background-image: url("/รูป/csmju.jpg");
     background-size:cover;
     background-repeat: no-repeat;
     
 }
 
 .carousel-image-2{
-    background-image: url("/five-king.jpg");
+    background-image: url("/รูป/five-king.jpg");
     background-size:cover;
     background-repeat: no-repeat;
 }
 
 .carousel-image-3{
-    background-image: url("/jotaro-gift.jpg");
+    background-image: url("/รูป/jotaro-gift.jpg");
     background-size:cover;
     background-repeat: no-repeat;
 }
 
 .carousel-image-4{
-    background-image: url("/jo.jpg");
+    background-image: url("/รูป/jo.jpg");
     background-size:cover;
     background-repeat: no-repeat;
 }
@@ -35,7 +35,7 @@
 #course{
     min-height: 360px;
     position: relative;
-    background-image: url(/Aquamarine.jpg);
+    background-image: url(/รูป/Aquamarine.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
