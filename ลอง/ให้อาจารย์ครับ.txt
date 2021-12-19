@@ -1,0 +1,2 @@
+ถ้าโหลดไฟล์จาก github แล้วกดตรงไฟล์ ex เข้าเว็บโดยตรง แต่รูปจะไม่แสดงจาก stly.css 
+ให้รันผ่าน vs-code โดย  -OpenFolder/ลอง     แล้วกด Open with Live Server
